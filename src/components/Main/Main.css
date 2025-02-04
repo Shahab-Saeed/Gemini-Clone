@@ -182,6 +182,7 @@
 
 @media (max-width:600px){
     .mainbottom input{
+      
         flex: none;
         width: 150px;
 
@@ -190,10 +191,15 @@
         width: 20px;
     }
     .searchbox{
+     
         padding: 5px 10px;
 
     }
     .searchbox div{
+      
         gap: 5px;
+    }
+    .cards{
+        margin-bottom: 40px;
     }
 }
